@@ -1,6 +1,6 @@
 # Development directories
-.idea/
-out/
+.idea
+out
 *.iml
 
 # Compiled class file
